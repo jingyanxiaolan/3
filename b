@@ -1,7 +1,6 @@
 3-14最少费用购物问题
 import java.util.Scanner;
-class Commodity{
-   //创建内部类
+class Commodity{  //创建内部类
    int piece;//购买数
    int price;//购买价格
 }
